@@ -1,0 +1,19 @@
+{
+  "name": "Señal Libre · TV en vivo",
+  "short_name": "Señal Libre",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#05080f",
+  "theme_color": "#05080f",
+  "description": "TV en vivo libre para TV Stick, proyector y celular.",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='96' fill='%2305080f'/%3E%3Crect x='96' y='150' width='320' height='214' rx='28' fill='none' stroke='%23ffc21f' stroke-width='26'/%3E%3Ccircle cx='256' cy='257' r='42' fill='%23ff2d55'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
